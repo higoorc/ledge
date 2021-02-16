@@ -1,5 +1,6 @@
 package io.github.plastix.kotlinboilerplate.ui.base
 
+import android.app.LoaderManager
 import android.databinding.ViewDataBinding
 import android.os.Build
 import android.os.Bundle
